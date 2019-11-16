@@ -1,0 +1,75 @@
+city,count,country,request_url,scrap_date,scrap_time
+Berat,7,Albania,https://www.getyourguide.com/berat-l2798/,2019-11-15,18:43
+Durres,5,Albania,https://www.getyourguide.com/durres-l2796/,2019-11-15,18:43
+Belgrade,72,Serbia,https://www.getyourguide.com/belgrade-l1688/,2019-11-15,18:43
+Minsk,27,Belarus,https://www.getyourguide.com/minsk-l1410/,2019-11-15,18:43
+Bled,46,Slovenia,https://www.getyourguide.com/bled-l1336/,2019-11-15,18:43
+Bratislava,39,Slovakia,https://www.getyourguide.com/bratislava-l765/,2019-11-15,18:43
+Konjic,5,Bosnia and Herzegovina,https://www.getyourguide.com/konjic-l2851/,2019-11-15,18:43
+Hallstatt,13,Austria,https://www.getyourguide.com/hallstatt-l32535/,2019-11-15,18:43
+Antwerp,16,Belgium,https://www.getyourguide.com/antwerp-l1028/,2019-11-15,18:43
+Gjirokaster,4,Albania,https://www.getyourguide.com/gjirokaster-l2802/,2019-11-15,18:43
+Golubac,4,Serbia,https://www.getyourguide.com/golubac-l110777/,2019-11-15,18:43
+Mir,5,Belarus,https://www.getyourguide.com/mir-l112942/,2019-11-15,18:43
+Bovec,21,Slovenia,https://www.getyourguide.com/bovec-l32330/,2019-11-15,18:43
+Medjugorje,12,Bosnia and Herzegovina,https://www.getyourguide.com/medjugorje-l2327/,2019-11-15,18:43
+Innsbruck,24,Austria,https://www.getyourguide.com/innsbruck-l164/,2019-11-15,18:43
+Bruges,32,Belgium,https://www.getyourguide.com/bruges-l854/,2019-11-15,18:43
+Kaliningrad,4,Russia,https://www.getyourguide.com/kaliningrad-l1432/,2019-11-15,18:43
+Alba Iulia,6,Romania,https://www.getyourguide.com/alba-iulia-l2511/,2019-11-15,18:43
+Albufeira,75,Portugal,https://www.getyourguide.com/albufeira-l1116/,2019-11-15,18:43
+Bochnia,4,Poland,https://www.getyourguide.com/bochnia-l98010/,2019-11-15,18:43
+Bergen,9,Norway,https://www.getyourguide.com/bergen-l1132/,2019-11-15,18:43
+Alkmaar,6,Netherlands,https://www.getyourguide.com/alkmaar-l1180/,2019-11-15,18:44
+Montevideo,16,Uruguay,https://www.getyourguide.com/montevideo-l539/,2019-11-15,18:44
+Aguas Calientes,20,Peru,https://www.getyourguide.com/aguas-calientes-l91472/,2019-11-15,18:44
+Shkoder,4,Albania,https://www.getyourguide.com/shkoder-l2828/,2019-11-15,18:44
+Niš,7,Serbia,https://www.getyourguide.com/ni-l2081/,2019-11-15,18:44
+Niasviž,6,Belarus,https://www.getyourguide.com/niasvi-l127153/,2019-11-15,18:44
+Kamnik,4,Slovenia,https://www.getyourguide.com/kamnik-l2294/,2019-11-15,18:44
+Mostar,32,Bosnia and Herzegovina,https://www.getyourguide.com/mostar-l1334/,2019-11-15,18:44
+Melk,5,Austria,https://www.getyourguide.com/melk-l3461/,2019-11-15,18:44
+Brussels,82,Belgium,https://www.getyourguide.com/brussels-l8/,2019-11-15,18:44
+Kazan,7,Russia,https://www.getyourguide.com/kazan-l2845/,2019-11-15,18:44
+Brasov,81,Romania,https://www.getyourguide.com/brasov-l2003/,2019-11-15,18:44
+Alcobaça,10,Portugal,https://www.getyourguide.com/alcobaa-l1561/,2019-11-15,18:44
+Chochołów,19,Poland,https://www.getyourguide.com/chochow-l92342/,2019-11-15,18:44
+Henningsvær,4,Norway,https://www.getyourguide.com/henningsvaer-l109467/,2019-11-15,18:45
+Amsterdam,544,Netherlands,https://www.getyourguide.com/amsterdam-l36/,2019-11-15,18:45
+Punta del Este,4,Uruguay,https://www.getyourguide.com/punta-del-este-l739/,2019-11-15,18:45
+Arequipa,22,Peru,https://www.getyourguide.com/arequipa-l2859/,2019-11-15,18:45
+Tirana,21,Albania,https://www.getyourguide.com/tirana-l2468/,2019-11-15,18:45
+Baños de Agua Santa,8,Ecuador,https://www.getyourguide.com/baos-de-agua-santa-l2262/,2019-11-15,18:45
+Bogotá,60,Colombia,https://www.getyourguide.com/bogot-l361/,2019-11-15,18:45
+Hanga Roa,17,Chile,https://www.getyourguide.com/hanga-roa-l32636/,2019-11-15,18:45
+Angra dos Reis,6,Brazil,https://www.getyourguide.com/angra-dos-reis-l88183/,2019-11-15,18:45
+La Paz,26,Bolivia,https://www.getyourguide.com/la-paz-l4674/,2019-11-15,18:45
+Buenos Aires,82,Argentina,https://www.getyourguide.com/buenos-aires-l1/,2019-11-15,18:45
+Victoria Falls City,13,Zimbabwe,https://www.getyourguide.com/victoria-falls-city-l127068/,2019-11-15,18:45
+Novi Sad,5,Serbia,https://www.getyourguide.com/novi-sad-l2642/,2019-11-15,18:45
+Koper,15,Slovenia,https://www.getyourguide.com/koper-l2650/,2019-11-15,18:46
+Počitelj,8,Bosnia and Herzegovina,https://www.getyourguide.com/poitelj-l2220/,2019-11-15,18:46
+Salzburg,88,Austria,https://www.getyourguide.com/salzburg-l4/,2019-11-15,18:46
+Ghent,16,Belgium,https://www.getyourguide.com/ghent-l1487/,2019-11-15,18:46
+Moscow,215,Russia,https://www.getyourguide.com/moscow-l181/,2019-11-15,18:46
+Bucharest,224,Romania,https://www.getyourguide.com/bucharest-l111/,2019-11-15,18:46
+Almada,9,Portugal,https://www.getyourguide.com/almada-l102069/,2019-11-15,18:46
+Częstochowa,16,Poland,https://www.getyourguide.com/czstochowa-l92351/,2019-11-15,18:46
+Kabelvåg,6,Norway,https://www.getyourguide.com/kabelvaag-l113572/,2019-11-15,18:46
+Delft,8,Netherlands,https://www.getyourguide.com/delft-l1290/,2019-11-15,18:46
+Chinchero District,4,Peru,https://www.getyourguide.com/chinchero-district-l119705/,2019-11-15,18:46
+Cuenca,12,Ecuador,https://www.getyourguide.com/cuenca-l368/,2019-11-15,18:46
+Cali,11,Colombia,https://www.getyourguide.com/cali-l1213/,2019-11-15,18:46
+Armação dos Búzios,8,Brazil,https://www.getyourguide.com/armao-dos-bzios-l1832/,2019-11-15,18:47
+Córdoba,4,Argentina,https://www.getyourguide.com/crdoba-l101760/,2019-11-15,18:47
+Ljubljana,71,Slovenia,https://www.getyourguide.com/ljubljana-l318/,2019-11-15,18:47
+Sarajevo,53,Bosnia and Herzegovina,https://www.getyourguide.com/sarajevo-l2281/,2019-11-15,18:47
+Cluj-Napoca,24,Romania,https://www.getyourguide.com/cluj-napoca-l2393/,2019-11-15,18:47
+Longyearbyen,6,Norway,https://www.getyourguide.com/longyearbyen-l97776/,2019-11-15,18:47
+Arusha,14,Tanzania,https://www.getyourguide.com/arusha-l505/,2019-11-15,18:47
+Guayaquil,12,Ecuador,https://www.getyourguide.com/guayaquil-l532/,2019-11-15,18:47
+Cartagena,37,Colombia,https://www.getyourguide.com/cartagena-l362/,2019-11-15,18:47
+Piran,14,Slovenia,https://www.getyourguide.com/piran-l1233/,2019-11-15,18:47
+Odda,6,Norway,https://www.getyourguide.com/odda-l97971/,2019-11-15,18:47
+Bagan,23,Myanmar,https://www.getyourguide.com/bagan-l2499/,2019-11-15,18:47
+Aarhus,3,Denmark,https://www.getyourguide.com/aarhus-l32302/,2019-11-15,18:48
