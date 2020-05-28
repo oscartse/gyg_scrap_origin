@@ -45,7 +45,7 @@ def diagnosis(prev_path, curr_path, file_loca):
 
 
 def main():
-    path = "/Users/oscartse/Desktop/Klook_WebScrappingProject/gyg_scrap_origin/gyg_scrap/spiders/records_4.csv"
+    path = "your_path"
     country_check(path)
     pass
 
