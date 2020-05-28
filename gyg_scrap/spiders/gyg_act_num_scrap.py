@@ -5,15 +5,14 @@ from datetime import datetime
 import requests
 from lxml import etree
 
-LUMINATI_PASS = "hja29x3mhtyy"
-LUMINATI_USER = "lum-customer-klook-zone-shared_data_center"
-LUMINATI_HOST = "zproxy.lum-superproxy.io"
-LUMINATI_PORT = 22225
+LUMINATI_PASS = "pwd"
+LUMINATI_USER = "usr"
+LUMINATI_HOST = "host"
+LUMINATI_PORT = "port_num"
 
 
 def get_proxy_credentials():
     proxy = "{}:{}@{}:{}".format(LUMINATI_USER, LUMINATI_PASS, LUMINATI_HOST, LUMINATI_PORT)
-    # lum-customer-klook-zone-shared_data_center:hja29x3mhtyy@zproxy.lum-superproxy.io:22225
     return proxy
 
 # def check_whether_city_or_attraction(request_url):
